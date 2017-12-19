@@ -1,5 +1,5 @@
 #!/bin/bash
-# Nginx Virtual Host Auto Installer
+# Nginx Virtual Host & SSL Auto Installer
 # Created by Teguh Aprianto
 # https://bukancoder | https://teguh.co
 
